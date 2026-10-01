@@ -1,3 +1,9 @@
+// try
+// 1. make sure that the number in the counter cannot go above 10 and cannot go below -10
+// 2. when the number is even, the counter is green, and when the number is odd, the counter is red
+// 3. explore on what localstorage is, add a button to save the counter's value to localstorage
+// and a button to read the counter value saved in localstorage
+
 // Student's solution
 function studentSolution() {
     // Implement the counter functionality
