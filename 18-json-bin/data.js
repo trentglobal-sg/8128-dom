@@ -1,4 +1,4 @@
-const BASE_API_URL="https://api.jsonbin.io/v3";
+const BASE_API_URL="https://psychic-succotash-7vw76qvrpxp63ppjj-3000.app.github.dev";
 const BIN_ID = "6ac5caccffd5d1605354cad2"
 
 async function getBin(binID) {
